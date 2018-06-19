@@ -4,5 +4,9 @@ def position_taken(board, index)
     
   elsif board[index] == ""
   
+  elsif board[index] == ""
+  
+  else 
+  
   end
 end
